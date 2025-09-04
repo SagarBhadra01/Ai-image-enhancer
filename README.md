@@ -20,20 +20,14 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+   ```git clone https://github.com/SagarBhadra01/Ai-image-enhancer.git```
 2. Install NPM packages
-   ```sh
-   npm install
-   ```
+   ```npm install```
 
 ## Usage
 
 1. Run the app
-   ```sh
-   npm run dev
-   ```
+   ```npm run dev```
 2. Open your browser and go to `http://localhost:5173/`
 
 ## Technologies Used
@@ -42,6 +36,5 @@ To get a local copy up and running follow these simple example steps.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 
-## Acknowledgements
 
-- [SagarAI](https://github.com/Sagar-AI)
+Github Link: (https://github.com/SagarBhadra01/Ai-image-enhancer)
