@@ -1,13 +1,12 @@
 import ImageUpload from "./ImageUpload";
 import ImagePreview from "./ImagePreview";
 import { useState } from "react";
-// import { enhancedImageAPI } from "../service/enhanceImageApi";
+import { enhancedImageAPI } from "../service/enhanceImageApi";
 
 const Home = () => {
     const [uploadImage, setUploadImage] = useState(null);
     const [enhancedImage, setEnhancedImage] = useState(null);
     const [loading, setloading] = useState(false);
-
     const UploadImageHandler = async (file) => {
         setUploadImage(URL.createObjectURL(file));
         setloading(true);
