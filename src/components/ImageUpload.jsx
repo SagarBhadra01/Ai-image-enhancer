@@ -18,7 +18,7 @@ const ImageUpload = (props) => {
                     className="hidden"
                     onChange={ShowImageHandler}
                 />
-                <span className="text-lg font-medium text-gray-600">
+                <span className="text-lg font-medium text-gray-600  hover:text-blue-500">
                     Click and drag to upload your image
                 </span>
             </label>
