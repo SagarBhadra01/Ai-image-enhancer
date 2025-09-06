@@ -35,6 +35,7 @@ To get a local copy up and running follow these simple example steps.
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
+- [Image Upscaling API](https://picwish.com/photo-enhancer-api-doc)
 
 
 Github Link: (https://github.com/SagarBhadra01/Ai-image-enhancer)
